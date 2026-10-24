@@ -1,0 +1,17 @@
+Create a Purchase Order with the following details:
+
+Supplier Number: 1008
+Supplier Site: OFFICESUPPLIES
+Buyer Employee Number: 24
+Ship To Location: V1-New York City
+Bill To Location: V1-New York City
+Comments: This PO was created through Claude AI
+
+Line 1:
+  Item Number: AS54888
+  Quantity: 300
+  Unit Price: 25
+  Need By Date: 2026-10-25
+  Ship To Org: V1
+  Destination Type: EXPENSE
+  Charge Account: 01-000-1410-0000-000
